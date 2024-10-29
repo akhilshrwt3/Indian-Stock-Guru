@@ -1,5 +1,6 @@
 # Indian Stock Guru
-You can acces this custom GPT via - https://chatgpt.com/share/6720e779-0710-8005-852e-f0b99facb4b9
+You can access via - https://chatgpt.com/share/6720e779-0710-8005-852e-f0b99facb4b9
+
 Indian Stock Guru is a quick, reliable source for insightful information about the Indian stock market. This project provides educational content, updates on stock prices, market indices, company financials, and stock analysis techniques— all while maintaining an optimistic tone.
 
 ## Features
